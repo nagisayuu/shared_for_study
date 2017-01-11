@@ -1,0 +1,48 @@
+body{
+  margin:0 40px;
+  color: #555;
+}
+a,
+a:visited{
+  color: #0055aa;
+  text-decoration: none;
+}
+a:hover{
+  color: #ff5577;
+}
+h1{
+  margin:0 -40px 40px;
+  padding: 50px 40px;
+  color: #000;
+  background-color: #f0f0f0;
+  font-size: 50px;
+  font-weight: normal;
+}
+.globalNav{
+  margin:0 -40px;
+  padding: 20px 40px;
+  background: #000;
+}
+.globalNav a{
+  margin: 0 40px 0 0;
+}
+.main{
+  padding-bottom: 40px;
+  min-height:550px;
+}
+.footer{
+  margin:0 -40px;
+  padding: 20px 40px;
+  background-color: #000;
+  color: #fff;
+  min-height: 300px;
+}
+.globalNav a,
+.footer a,
+.footer a:visited{
+  color: #77ccff;
+}
+.globalNav a:hover,
+.footer a:hover{
+  color: #cceeff;
+}

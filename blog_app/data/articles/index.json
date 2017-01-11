@@ -1,0 +1,18 @@
+[
+  {
+    "id": "introduction",
+    "title": "Introduction"
+  },
+  {
+    "id": "architecture",
+    "title": "Architecture"
+  },
+  {
+    "id": "displaying-data",
+    "title": "Displaying Data"
+  },
+  {
+    "id": "user-input",
+    "title": "User Input"
+  }
+]
